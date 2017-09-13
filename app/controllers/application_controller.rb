@@ -3,7 +3,4 @@ class ApplicationController < ActionController::Base
   def hello
     render html: "Ruby is the good language to learn"
   end
-
-
-
 end
